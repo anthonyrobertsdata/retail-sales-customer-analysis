@@ -1,1 +1,3 @@
-	-- Data cleaning and validation queries
+-- Data cleaning and validation queries
+-- Dataset: UCI Online Retail
+-- Goal: Identify data-quality issues and define valid sales for analysis.
