@@ -4,7 +4,19 @@
 Online Retail transaction data.
 
 ## Source
-Add the original dataset source link here.
+UCI Machine Learning Repository: Online Retail dataset  
+https://archive.ics.uci.edu/dataset/352/online+retail
+
+The dataset contains 541,909 transaction records from December 2010 through
+December 2011 for a UK-based, non-store online retailer. The retailer primarily
+sold giftware, and many customers were wholesalers. This portfolio project uses
+the data for educational analysis only.
+
+## Limitations
+This is historical, anonymized transaction data. It does not include product costs,
+profit margins, marketing activity, inventory levels, or customer demographics.
+Therefore, revenue trends can identify opportunities but cannot by themselves
+establish profitability or explain why purchasing behavior occurred.
 
 ## Granularity
 Each row represents one product line within an invoice. One invoice can contain multiple product lines.
